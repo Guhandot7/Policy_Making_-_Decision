@@ -1,5 +1,5 @@
 # Policy_Making_-_Decision
-Like molecular genetic technologies like DNA finger printing revolutionized foresensic science, A.I based models & technologies are influening 
+Like molecular genetic technologies like DNA finger printing revolutionized forensic science, A.I based models & technologies are influening 
 policy making of buisnesses and governments. A.I based facial-reconition is one good example to highlight the role of machine learning and deeplearning
 models in policy making. Western European governments and courts have started using facila recogniztion technologies to identify suspects and pronounce 
 justice. Buisnesses and public sector entities generate a huge amount of data on daily basis which remain mostly un leveraged. As an engineer and with 
